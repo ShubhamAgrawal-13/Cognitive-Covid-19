@@ -1,0 +1,2 @@
+# Cognitive-Covid-19
+The outbreak of the ​ novel coronavirus disease (Covid-19)​ brought considerable turmoil all around the world. It was declared as a pandemic on 11 March 2020 by WHO. In this project, we will be implementing the SIR model to estimate the basic reproduction number (Ro) at the national and state level and use statistical machine learning models to predict disease progression in India.We will try to predict the number of cases ahead of time so that it will be helpful for our country.
